@@ -1,0 +1,4 @@
+---
+applications:
+  - name: mysql-flask
+    buildpack: python_buildpack

@@ -1,0 +1,4 @@
+name: mysql-flask
+dependencies:
+- flask
+- mysql-connector-python

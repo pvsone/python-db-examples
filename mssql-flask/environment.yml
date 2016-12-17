@@ -1,0 +1,5 @@
+name: mssql-flask
+dependencies:
+- flask
+- freetds
+- pymssql

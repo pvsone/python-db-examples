@@ -1,0 +1,4 @@
+---
+applications:
+  - name: mssql-flask
+    buildpack: python_buildpack
