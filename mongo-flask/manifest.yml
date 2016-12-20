@@ -1,0 +1,4 @@
+---
+applications:
+  - name: mongo-flask
+    buildpack: python_buildpack
